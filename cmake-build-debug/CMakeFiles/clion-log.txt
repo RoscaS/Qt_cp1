@@ -1,0 +1,4 @@
+/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/sol/Cours/2018-2019/01_QT/03_prepa_tests
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sol/Cours/2018-2019/01_QT/03_prepa_tests/cmake-build-debug
